@@ -7,6 +7,13 @@ Instead of relying on GPS or indoor positioning hardware, the system determines 
 
 The system was developed and evaluated using real-world data captured in the **Museum of Fine Arts (MSK) in Ghent**, and demonstrates that visual recognition combined with temporal modelling can achieve reliable indoor localisation.
 
+## Project Paper
+
+A detailed technical description of this project, including methodology, experiments, and evaluation results, is available in the accompanying paper:
+
+- **📄 *Indoor Localisation Application for Visitors of the Museum of Fine Arts (MSK)***  
+  [`Computervision___G7.pdf`](./Computervision___G7.pdf)
+
 
 
 ## Objectives
@@ -122,4 +129,6 @@ This significantly improves localisation stability in continuous video sequences
 - Bart Ertveldt  
 - Arthur Leclercq  
 - Senne Loobuyck  
-- Ziggy Verhulst 
+- Ziggy Verhulst
+
+
